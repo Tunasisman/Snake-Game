@@ -45,12 +45,12 @@ No external libraries are needed.
 Use the arrow keys to move the snake.
 Try to eat as much food as possible without colliding with the wall or yourself!
 
-🧠 Future Improvements
+## 🧠 Future Improvements
 * Add different difficulty levels
 * Add sound effects
 * Store high scores in a local file
 * Create a start/restart menu
 * Add wall wrap-around mode
 
-📜 License
+## 📜 License  
 This project is open-source and free to use.
